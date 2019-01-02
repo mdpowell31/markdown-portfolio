@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. 100 Years of solituide
+2. The Brothers Karamazov
+3. The Art of Electronics
+  a. Making Embedded Systems
